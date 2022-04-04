@@ -182,6 +182,10 @@
     background-color: #f9f9f9;
     border: 1px solid #d9dbe9;
     padding-top: 2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
   }
 
   .main_wrap {
