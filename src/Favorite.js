@@ -49,9 +49,7 @@ const Favorites = () => {
 
   return (
     <div className="main_wrap">
-      <h1 style={{ marginTop: "2rem", marginLeft: "2rem" }}>
-        Hire Top Developers
-      </h1>
+      <h1 style={{ marginTop: "2rem", marginLeft: "2rem" }}>Favorites</h1>
       <div className="main_list_wrap">
         {list.map((card) => {
           return (
